@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**rohilpinto/rohilpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [	★ Twitter ](https://twitter.com/Rohil_Cris)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Im a master procrastinator :)
--->
+ 
