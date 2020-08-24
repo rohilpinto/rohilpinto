@@ -1,4 +1,4 @@
-## Hi there 😃 this is my ( SUPER ACTIVE ) github profile | I mostly do front-end so if you like anything here or want to follow feel free to do so. :)
+## Hi there 😃 This is my ( SUPER ACTIVE ) github profile | I mostly do front-end so if you like anything here or want to follow feel free to do so. :)
 
 - 🔭 I’m currently working on few javascript projects for my portfolio.
 - 🌱 I’m currently learning JavaScript & later planing to learn react.
